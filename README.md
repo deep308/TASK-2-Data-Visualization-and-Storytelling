@@ -13,7 +13,7 @@ The dashboard is built on a dataset (Excel) and visualized through Power BI Desk
 |------------------------------|---------------------------------------------|
 | `Sales Data Analysis Report.pbix` | Power BI dashboard file                        |
 | `Data Sales.xlsx`              | Raw dataset used for data modeling and analysis |
-| `Sales Data Analysis Report.png`      | Visual snapshot of the Power BI dashboard     |
+| `Sales Data Analysis Report(ss).png`      | Visual snapshot of the Power BI dashboard     |
 | `README.md`                  | Documentation of the project                  |
 
 ---
@@ -71,7 +71,7 @@ The dashboard is built on a dataset (Excel) and visualized through Power BI Desk
 
 ## 📌 Screenshot
 
-![Sales Dashboard Preview](SalesDataAnalysisReport.png)
+![Sales Dashboard Preview](SalesDataAnalysisReport(ss).png)
 
 ---
 

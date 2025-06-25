@@ -67,11 +67,3 @@ The dashboard is built on a dataset (Excel) and visualized through Power BI Desk
 
 ---
 
----
-
-## 📌 Screenshot
-
-![Sales Dashboard Preview](SalesDataAnalysisReport(ss).png)
-
----
-
